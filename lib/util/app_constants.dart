@@ -76,7 +76,7 @@ class AppConstants {
   static const String changeLanguage = '/api/customer/change-language';
   static const String getProfileLevel = '/api/customer/level';
   static const String externalLoginUri = '/api/customer/auth/external-login';
-  static const String transferMoneyFromTo Chegando DeliveryToMart = '/api/customer/wallet/transfer-To Chegando Delivery-to-mart';
+  static const String transferMoneyFromTo Chegando Delivery = '/api/customer/wallet/transfer-To Chegando Delivery';
   static const String referralDetails = '/api/customer/referral-details';
   static const String referralEarningList = '/api/customer/transaction/referral-earning-list?limit=10&offset=';
   static const String parcelCancellationReasonList = '/api/customer/config/parcel-cancellation-reason-list';
